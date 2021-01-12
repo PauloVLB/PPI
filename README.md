@@ -42,7 +42,7 @@ Repositório para anotações e projetos da disciplina de Programação Para Int
         - User-Agent (informções sobre o client)
 - Corpo (dados em si)
     - Exemplo:
-    <img src="https://gblobscdn.gitbook.com/assets%2F-LPXlabEs8YqL0ObNsDq%2F-LQ3neCiuJkgFGAxEicy%2F-LQ3nej2V4Ox2vKh2wm4%2Fcadastro.png?alt=media"></img>
+    ![cadastro](https://user-images.githubusercontent.com/31678236/104346362-16632000-54de-11eb-8056-63286389d11f.png)
     (esquerda)
 
 ### Response
@@ -69,7 +69,7 @@ Repositório para anotações e projetos da disciplina de Programação Para Int
         - XML
         - Etc e tal
     - Exemplo:
-    <img src="https://gblobscdn.gitbook.com/assets%2F-LPXlabEs8YqL0ObNsDq%2F-LQ3neCiuJkgFGAxEicy%2F-LQ3nej2V4Ox2vKh2wm4%2Fcadastro.png?alt=media"></img>
+    ![cadastro](https://user-images.githubusercontent.com/31678236/104346362-16632000-54de-11eb-8056-63286389d11f.png)
     (direita)
 
 ## Autor
