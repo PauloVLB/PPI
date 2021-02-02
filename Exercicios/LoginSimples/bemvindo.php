@@ -6,9 +6,9 @@
     </head>
     <body>
         <?php 
-            echo $_POST['nome'].", seja muito bem-vindo!<br>";
-            echo 'Email: '.$_POST['email'];
-            echo '<br>Sua senha tem '.strlen($_POST['senha']).' caracteres'; 
+            echo '<strong>'.$_POST['nome'].'</strong>, seja muito bem-vindo!<br>';
+            echo 'Email: <strong>'.$_POST['email'].'</strong>';
+            echo '<br>Sua senha tem <strong>'.strlen($_POST['senha']).'</strong> caracteres'; 
         ?>
     </body>
 </html>
