@@ -1,0 +1,57 @@
+* {
+    font-size: 16px;
+    padding: 0;
+    border-width: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    background-color: #ddd;
+}
+
+h1 {
+    font-size: 3em;
+    text-align: center;
+    padding: .6em;
+}
+
+main {
+    display: flex;   
+}
+
+main > * {
+    width: 100%;
+}
+
+main > section:first-child {
+    border-right-style: double;
+    border-right-width: .2em;
+}
+
+h2 {
+    font-size: 2em;
+    text-align: center;
+}
+
+section {
+    padding: 2em;
+
+}
+
+form > div:last-child {
+    display: flex;
+}
+
+input {
+    width: 100%;
+    padding: .6em;
+    border-radius: .4em;
+    margin-bottom: 1em;
+    margin-left: .2em;
+}
+
+footer {
+    text-align: center;
+}
