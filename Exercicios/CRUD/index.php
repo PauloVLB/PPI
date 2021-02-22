@@ -38,11 +38,7 @@
                     foreach ($usuarios as $index => $usuario){
                         ?>
                         <li>
-                            <?php 
-                                foreach(explode(',', $usuario) as $campo) {
-                                    echo "$campo ";
-                                }  
-                            ?>
+                            <?= $usuario ?>
                             <a href="bd/deletar-usuario.php?id=<?= $index; ?>">
                                 Deletar
                             </a>
